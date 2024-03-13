@@ -89,6 +89,7 @@ cv2.imshow('part image',image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
+![row and coloumns](https://github.com/vishal21004/COLOR_CONVERSIONS_OF-IMAGE/assets/119560110/aa433240-3c1a-4b2c-bc94-aa72db8f02db)
 
 
 
@@ -105,6 +106,7 @@ cv2.imshow('partimage1',image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
+![cut and paste](https://github.com/vishal21004/COLOR_CONVERSIONS_OF-IMAGE/assets/119560110/6919f57b-be29-4118-81df-7bcc30eeda1a)
 
 
 <br>

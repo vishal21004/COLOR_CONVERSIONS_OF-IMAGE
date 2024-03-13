@@ -181,10 +181,11 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
+![rgb to yrcrcb](https://github.com/vishal21004/COLOR_CONVERSIONS_OF-IMAGE/assets/119560110/578767a8-570c-47b2-b77e-7bb7e5e1d526)
+![bgr to ycrcb](https://github.com/vishal21004/COLOR_CONVERSIONS_OF-IMAGE/assets/119560110/4b3da677-667c-4082-b2b9-1cbe83b20600)
 
 <br>
-![rgb to yrcrcb](https://github.com/vishal21004/COLOR_CONVERSIONS_OF-IMAGE/assets/119560110/81a2cf69-2c29-47d8-b192-9ea2ac8fc425)
-![spl and mrg 1](https://github.com/vishal21004/COLOR_CONVERSIONS_OF-IMAGE/assets/119560110/1920fda4-8b47-455b-93a4-b03cd6f03a3a)
+
 
 ### ix) Split and merge RGB Image
 ```python

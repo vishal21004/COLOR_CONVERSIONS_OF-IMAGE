@@ -35,8 +35,8 @@ Split and Merge RGB Image
 ### Step10:
 Split and merge HSV Image
 ```
-### Developed By: Divakar R
-### Register Number:212222240026
+### Developed By: VISHAL M.A
+### Register Number:212222230177
 ```
 ## Program:
 ### i) Read and display the image
